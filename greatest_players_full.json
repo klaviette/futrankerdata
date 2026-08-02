@@ -24,7 +24,12 @@
     "olympic": 0,
     "puskas": 0,
     "position": "FWD",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "Campeonato Brasileiro",
+      "NASL"
+    ],
+    "num_leagues_won": 2
   },
   {
     "name": "Diego Maradona",
@@ -51,7 +56,12 @@
     "olympic": 0,
     "puskas": 0,
     "position": "MID",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "Primera División Argentina",
+      "Serie A"
+    ],
+    "num_leagues_won": 2
   },
   {
     "name": "Lionel Messi",
@@ -78,7 +88,13 @@
     "olympic": 1,
     "puskas": 1,
     "position": "FWD",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "La Liga",
+      "Ligue 1",
+      "MLS"
+    ],
+    "num_leagues_won": 3
   },
   {
     "name": "Cristiano Ronaldo",
@@ -105,7 +121,13 @@
     "olympic": 0,
     "puskas": 1,
     "position": "FWD",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "Premier League",
+      "La Liga",
+      "Serie A"
+    ],
+    "num_leagues_won": 3
   },
   {
     "name": "Johan Cruyff",
@@ -132,7 +154,12 @@
     "olympic": 0,
     "puskas": 0,
     "position": "FWD",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "Eredivisie",
+      "La Liga"
+    ],
+    "num_leagues_won": 2
   },
   {
     "name": "Franz Beckenbauer",
@@ -159,7 +186,12 @@
     "olympic": 0,
     "puskas": 0,
     "position": "DEF",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "Bundesliga",
+      "NASL"
+    ],
+    "num_leagues_won": 2
   },
   {
     "name": "Zinedine Zidane",
@@ -186,7 +218,12 @@
     "olympic": 0,
     "puskas": 0,
     "position": "MID",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "Serie A",
+      "La Liga"
+    ],
+    "num_leagues_won": 2
   },
   {
     "name": "Ronaldo Nazário",
@@ -213,7 +250,12 @@
     "olympic": 0,
     "puskas": 0,
     "position": "FWD",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "La Liga",
+      "Campeonato Brasileiro"
+    ],
+    "num_leagues_won": 2
   },
   {
     "name": "Alfredo Di Stéfano",
@@ -240,7 +282,13 @@
     "olympic": 0,
     "puskas": 0,
     "position": "FWD",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "Primera División Argentina",
+      "Categoría Primera A (Colombia)",
+      "La Liga"
+    ],
+    "num_leagues_won": 3
   },
   {
     "name": "Michel Platini",
@@ -267,7 +315,12 @@
     "olympic": 0,
     "puskas": 0,
     "position": "MID",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "Ligue 1",
+      "Serie A"
+    ],
+    "num_leagues_won": 2
   },
   {
     "name": "Ronaldinho",
@@ -294,7 +347,11 @@
     "olympic": 0,
     "puskas": 0,
     "position": "FWD",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "La Liga"
+    ],
+    "num_leagues_won": 1
   },
   {
     "name": "George Best",
@@ -321,7 +378,11 @@
     "olympic": 0,
     "puskas": 0,
     "position": "FWD",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "English First Division"
+    ],
+    "num_leagues_won": 1
   },
   {
     "name": "Paolo Maldini",
@@ -348,7 +409,11 @@
     "olympic": 0,
     "puskas": 0,
     "position": "DEF",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "Serie A"
+    ],
+    "num_leagues_won": 1
   },
   {
     "name": "Xavi",
@@ -375,7 +440,12 @@
     "olympic": 0,
     "puskas": 0,
     "position": "MID",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "La Liga",
+      "Qatar Stars League"
+    ],
+    "num_leagues_won": 2
   },
   {
     "name": "Andrés Iniesta",
@@ -402,7 +472,11 @@
     "olympic": 0,
     "puskas": 0,
     "position": "MID",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "La Liga"
+    ],
+    "num_leagues_won": 1
   },
   {
     "name": "Thierry Henry",
@@ -429,7 +503,12 @@
     "olympic": 0,
     "puskas": 0,
     "position": "FWD",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "Ligue 1",
+      "Premier League"
+    ],
+    "num_leagues_won": 2
   },
   {
     "name": "Marco van Basten",
@@ -456,7 +535,12 @@
     "olympic": 0,
     "puskas": 0,
     "position": "FWD",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "Eredivisie",
+      "Serie A"
+    ],
+    "num_leagues_won": 2
   },
   {
     "name": "Eusébio",
@@ -483,7 +567,11 @@
     "olympic": 0,
     "puskas": 0,
     "position": "FWD",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "Primeira Liga"
+    ],
+    "num_leagues_won": 1
   },
   {
     "name": "Roberto Baggio",
@@ -510,7 +598,11 @@
     "olympic": 0,
     "puskas": 0,
     "position": "FWD",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "Serie A"
+    ],
+    "num_leagues_won": 1
   },
   {
     "name": "Kaká",
@@ -537,7 +629,12 @@
     "olympic": 0,
     "puskas": 0,
     "position": "MID",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "Serie A",
+      "La Liga"
+    ],
+    "num_leagues_won": 2
   },
   {
     "name": "Garrincha",
@@ -564,7 +661,11 @@
     "olympic": 0,
     "puskas": 0,
     "position": "FWD",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "Campeonato Carioca"
+    ],
+    "num_leagues_won": 1
   },
   {
     "name": "Franco Baresi",
@@ -591,7 +692,11 @@
     "olympic": 0,
     "puskas": 0,
     "position": "DEF",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "Serie A"
+    ],
+    "num_leagues_won": 1
   },
   {
     "name": "Bobby Charlton",
@@ -618,7 +723,11 @@
     "olympic": 0,
     "puskas": 0,
     "position": "MID",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "English First Division"
+    ],
+    "num_leagues_won": 1
   },
   {
     "name": "Gerd Müller",
@@ -645,7 +754,11 @@
     "olympic": 0,
     "puskas": 0,
     "position": "FWD",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "Bundesliga"
+    ],
+    "num_leagues_won": 1
   },
   {
     "name": "Lev Yashin",
@@ -672,7 +785,11 @@
     "olympic": 1,
     "puskas": 0,
     "position": "GK",
-    "clean_sheets": 270
+    "clean_sheets": 270,
+    "leagues_won": [
+      "Soviet Top League"
+    ],
+    "num_leagues_won": 1
   },
   {
     "name": "Kylian Mbappé",
@@ -699,7 +816,12 @@
     "olympic": 0,
     "puskas": 0,
     "position": "FWD",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "Ligue 1",
+      "La Liga"
+    ],
+    "num_leagues_won": 2
   },
   {
     "name": "Neymar",
@@ -726,7 +848,12 @@
     "olympic": 1,
     "puskas": 1,
     "position": "FWD",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "La Liga",
+      "Ligue 1"
+    ],
+    "num_leagues_won": 2
   },
   {
     "name": "Luka Modrić",
@@ -753,7 +880,12 @@
     "olympic": 0,
     "puskas": 0,
     "position": "MID",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "Prva HNL",
+      "La Liga"
+    ],
+    "num_leagues_won": 2
   },
   {
     "name": "Robert Lewandowski",
@@ -780,7 +912,12 @@
     "olympic": 0,
     "puskas": 0,
     "position": "FWD",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "Bundesliga",
+      "La Liga"
+    ],
+    "num_leagues_won": 2
   },
   {
     "name": "Erling Haaland",
@@ -807,7 +944,12 @@
     "olympic": 0,
     "puskas": 0,
     "position": "FWD",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "Austrian Bundesliga",
+      "Premier League"
+    ],
+    "num_leagues_won": 2
   },
   {
     "name": "Gianluigi Buffon",
@@ -834,7 +976,11 @@
     "olympic": 0,
     "puskas": 0,
     "position": "GK",
-    "clean_sheets": 506
+    "clean_sheets": 506,
+    "leagues_won": [
+      "Serie A"
+    ],
+    "num_leagues_won": 1
   },
   {
     "name": "Uwe Seeler",
@@ -861,7 +1007,11 @@
     "olympic": 0,
     "puskas": 0,
     "position": "FWD",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "German football championship (pre-Bundesliga)"
+    ],
+    "num_leagues_won": 1
   },
   {
     "name": "Javier Zanetti",
@@ -888,7 +1038,11 @@
     "olympic": 0,
     "puskas": 0,
     "position": "DEF",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "Serie A"
+    ],
+    "num_leagues_won": 1
   },
   {
     "name": "Kevin Keegan",
@@ -915,7 +1069,12 @@
     "olympic": 0,
     "puskas": 0,
     "position": "FWD",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "English First Division",
+      "Bundesliga"
+    ],
+    "num_leagues_won": 2
   },
   {
     "name": "Gunnar Nordahl",
@@ -942,7 +1101,12 @@
     "olympic": 1,
     "puskas": 0,
     "position": "FWD",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "Allsvenskan",
+      "Serie A"
+    ],
+    "num_leagues_won": 2
   },
   {
     "name": "Alan Shearer",
@@ -969,7 +1133,11 @@
     "olympic": 0,
     "puskas": 0,
     "position": "FWD",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "Premier League"
+    ],
+    "num_leagues_won": 1
   },
   {
     "name": "Hugo Sánchez",
@@ -996,7 +1164,12 @@
     "olympic": 0,
     "puskas": 0,
     "position": "FWD",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "Primera División de México",
+      "La Liga"
+    ],
+    "num_leagues_won": 2
   },
   {
     "name": "Gareth Bale",
@@ -1023,7 +1196,11 @@
     "olympic": 0,
     "puskas": 0,
     "position": "FWD",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "La Liga"
+    ],
+    "num_leagues_won": 1
   },
   {
     "name": "Giacinto Facchetti",
@@ -1050,7 +1227,11 @@
     "olympic": 0,
     "puskas": 0,
     "position": "DEF",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "Serie A"
+    ],
+    "num_leagues_won": 1
   },
   {
     "name": "Eric Cantona",
@@ -1077,7 +1258,12 @@
     "olympic": 0,
     "puskas": 0,
     "position": "FWD",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "Ligue 1",
+      "Premier League"
+    ],
+    "num_leagues_won": 2
   },
   {
     "name": "Patrick Vieira",
@@ -1104,7 +1290,12 @@
     "olympic": 0,
     "puskas": 0,
     "position": "MID",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "Premier League",
+      "Serie A"
+    ],
+    "num_leagues_won": 2
   },
   {
     "name": "Tostão",
@@ -1131,7 +1322,11 @@
     "olympic": 0,
     "puskas": 0,
     "position": "FWD",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "Campeonato Mineiro"
+    ],
+    "num_leagues_won": 1
   },
   {
     "name": "Marcel Desailly",
@@ -1158,7 +1353,12 @@
     "olympic": 0,
     "puskas": 0,
     "position": "DEF",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "Ligue 1",
+      "Serie A"
+    ],
+    "num_leagues_won": 2
   },
   {
     "name": "Gigi Riva",
@@ -1185,7 +1385,11 @@
     "olympic": 0,
     "puskas": 0,
     "position": "FWD",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "Serie A"
+    ],
+    "num_leagues_won": 1
   },
   {
     "name": "Oleg Blokhin",
@@ -1212,7 +1416,11 @@
     "olympic": 0,
     "puskas": 0,
     "position": "FWD",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "Soviet Top League"
+    ],
+    "num_leagues_won": 1
   },
   {
     "name": "Paolo Rossi",
@@ -1239,7 +1447,11 @@
     "olympic": 0,
     "puskas": 0,
     "position": "FWD",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "Serie A"
+    ],
+    "num_leagues_won": 1
   },
   {
     "name": "Philipp Lahm",
@@ -1266,7 +1478,11 @@
     "olympic": 0,
     "puskas": 0,
     "position": "DEF",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "Bundesliga"
+    ],
+    "num_leagues_won": 1
   },
   {
     "name": "Raúl",
@@ -1293,7 +1509,11 @@
     "olympic": 0,
     "puskas": 0,
     "position": "FWD",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "La Liga"
+    ],
+    "num_leagues_won": 1
   },
   {
     "name": "Dixie Dean",
@@ -1320,7 +1540,11 @@
     "olympic": 0,
     "puskas": 0,
     "position": "FWD",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "English First Division"
+    ],
+    "num_leagues_won": 1
   },
   {
     "name": "Gheorghe Hagi",
@@ -1347,7 +1571,12 @@
     "olympic": 0,
     "puskas": 0,
     "position": "MID",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "Liga I",
+      "Süper Lig"
+    ],
+    "num_leagues_won": 2
   },
   {
     "name": "Denis Law",
@@ -1374,7 +1603,11 @@
     "olympic": 0,
     "puskas": 0,
     "position": "FWD",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "English First Division"
+    ],
+    "num_leagues_won": 1
   },
   {
     "name": "John Charles",
@@ -1401,7 +1634,11 @@
     "olympic": 0,
     "puskas": 0,
     "position": "FWD",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "Serie A"
+    ],
+    "num_leagues_won": 1
   },
   {
     "name": "Paul Gascoigne",
@@ -1428,7 +1665,11 @@
     "olympic": 0,
     "puskas": 0,
     "position": "MID",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "Scottish Premier League"
+    ],
+    "num_leagues_won": 1
   },
   {
     "name": "Gordon Banks",
@@ -1455,7 +1696,9 @@
     "olympic": 0,
     "puskas": 0,
     "position": "GK",
-    "clean_sheets": 300
+    "clean_sheets": 300,
+    "leagues_won": [],
+    "num_leagues_won": 0
   },
   {
     "name": "Roberto Carlos",
@@ -1482,7 +1725,11 @@
     "olympic": 0,
     "puskas": 0,
     "position": "DEF",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "La Liga"
+    ],
+    "num_leagues_won": 1
   },
   {
     "name": "Gabriel Batistuta",
@@ -1509,7 +1756,11 @@
     "olympic": 0,
     "puskas": 0,
     "position": "FWD",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "Serie A"
+    ],
+    "num_leagues_won": 1
   },
   {
     "name": "Günter Netzer",
@@ -1536,7 +1787,11 @@
     "olympic": 0,
     "puskas": 0,
     "position": "MID",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "Bundesliga"
+    ],
+    "num_leagues_won": 1
   },
   {
     "name": "Michael Laudrup",
@@ -1563,7 +1818,11 @@
     "olympic": 0,
     "puskas": 0,
     "position": "MID",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "La Liga"
+    ],
+    "num_leagues_won": 1
   },
   {
     "name": "Karl-Heinz Rummenigge",
@@ -1590,7 +1849,11 @@
     "olympic": 0,
     "puskas": 0,
     "position": "FWD",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "Bundesliga"
+    ],
+    "num_leagues_won": 1
   },
   {
     "name": "Alessandro Del Piero",
@@ -1617,7 +1880,11 @@
     "olympic": 0,
     "puskas": 0,
     "position": "FWD",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "Serie A"
+    ],
+    "num_leagues_won": 1
   },
   {
     "name": "Didier Drogba",
@@ -1644,7 +1911,11 @@
     "olympic": 0,
     "puskas": 0,
     "position": "FWD",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "Premier League"
+    ],
+    "num_leagues_won": 1
   },
   {
     "name": "Matthias Sindelar",
@@ -1671,7 +1942,11 @@
     "olympic": 0,
     "puskas": 0,
     "position": "FWD",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "Austrian Football Championship"
+    ],
+    "num_leagues_won": 1
   },
   {
     "name": "Francesco Totti",
@@ -1698,7 +1973,11 @@
     "olympic": 0,
     "puskas": 0,
     "position": "MID",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "Serie A"
+    ],
+    "num_leagues_won": 1
   },
   {
     "name": "Gianni Rivera",
@@ -1725,7 +2004,11 @@
     "olympic": 0,
     "puskas": 0,
     "position": "MID",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "Serie A"
+    ],
+    "num_leagues_won": 1
   },
   {
     "name": "Mohamed Salah",
@@ -1750,9 +2033,13 @@
     "wcboot": 0,
     "glove": 0,
     "olympic": 0,
-    "puskas": 1,
+    "puskas": 0,
     "position": "FWD",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "Premier League"
+    ],
+    "num_leagues_won": 1
   },
   {
     "name": "Kevin De Bruyne",
@@ -1779,7 +2066,11 @@
     "olympic": 0,
     "puskas": 0,
     "position": "MID",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "Premier League"
+    ],
+    "num_leagues_won": 1
   },
   {
     "name": "Zlatan Ibrahimović",
@@ -1806,7 +2097,14 @@
     "olympic": 0,
     "puskas": 1,
     "position": "FWD",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "Eredivisie",
+      "Serie A",
+      "La Liga",
+      "Ligue 1"
+    ],
+    "num_leagues_won": 4
   },
   {
     "name": "Frank Rijkaard",
@@ -1833,7 +2131,12 @@
     "olympic": 0,
     "puskas": 0,
     "position": "MID",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "Eredivisie",
+      "Serie A"
+    ],
+    "num_leagues_won": 2
   },
   {
     "name": "Mario Kempes",
@@ -1860,7 +2163,9 @@
     "olympic": 0,
     "puskas": 0,
     "position": "FWD",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [],
+    "num_leagues_won": 0
   },
   {
     "name": "Ryan Giggs",
@@ -1887,7 +2192,11 @@
     "olympic": 0,
     "puskas": 0,
     "position": "MID",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "Premier League"
+    ],
+    "num_leagues_won": 1
   },
   {
     "name": "Sócrates",
@@ -1914,7 +2223,11 @@
     "olympic": 0,
     "puskas": 0,
     "position": "MID",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "Campeonato Paulista"
+    ],
+    "num_leagues_won": 1
   },
   {
     "name": "Just Fontaine",
@@ -1941,7 +2254,11 @@
     "olympic": 0,
     "puskas": 0,
     "position": "FWD",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "Ligue 1"
+    ],
+    "num_leagues_won": 1
   },
   {
     "name": "Stanley Matthews",
@@ -1968,7 +2285,9 @@
     "olympic": 0,
     "puskas": 0,
     "position": "FWD",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [],
+    "num_leagues_won": 0
   },
   {
     "name": "Sergio Busquets",
@@ -1995,7 +2314,12 @@
     "olympic": 0,
     "puskas": 0,
     "position": "MID",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "La Liga",
+      "MLS"
+    ],
+    "num_leagues_won": 2
   },
   {
     "name": "Giuseppe Meazza",
@@ -2022,7 +2346,11 @@
     "olympic": 0,
     "puskas": 0,
     "position": "FWD",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "Serie A"
+    ],
+    "num_leagues_won": 1
   },
   {
     "name": "George Weah",
@@ -2049,7 +2377,12 @@
     "olympic": 0,
     "puskas": 0,
     "position": "FWD",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "Ligue 1",
+      "Serie A"
+    ],
+    "num_leagues_won": 2
   },
   {
     "name": "Johan Neeskens",
@@ -2076,7 +2409,11 @@
     "olympic": 0,
     "puskas": 0,
     "position": "MID",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "Eredivisie"
+    ],
+    "num_leagues_won": 1
   },
   {
     "name": "Hristo Stoichkov",
@@ -2103,7 +2440,12 @@
     "olympic": 0,
     "puskas": 0,
     "position": "FWD",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "Bulgarian First League",
+      "La Liga"
+    ],
+    "num_leagues_won": 2
   },
   {
     "name": "Wayne Rooney",
@@ -2130,7 +2472,11 @@
     "olympic": 0,
     "puskas": 0,
     "position": "FWD",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "Premier League"
+    ],
+    "num_leagues_won": 1
   },
   {
     "name": "Toni Kroos",
@@ -2157,7 +2503,12 @@
     "olympic": 0,
     "puskas": 0,
     "position": "MID",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "Bundesliga",
+      "La Liga"
+    ],
+    "num_leagues_won": 2
   },
   {
     "name": "Sándor Kocsis",
@@ -2184,7 +2535,12 @@
     "olympic": 1,
     "puskas": 0,
     "position": "FWD",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "Hungarian League",
+      "La Liga"
+    ],
+    "num_leagues_won": 2
   },
   {
     "name": "Kenny Dalglish",
@@ -2211,7 +2567,12 @@
     "olympic": 0,
     "puskas": 0,
     "position": "FWD",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "Scottish Premier Division",
+      "English First Division"
+    ],
+    "num_leagues_won": 2
   },
   {
     "name": "Dennis Bergkamp",
@@ -2238,7 +2599,12 @@
     "olympic": 0,
     "puskas": 0,
     "position": "FWD",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "Eredivisie",
+      "Premier League"
+    ],
+    "num_leagues_won": 2
   },
   {
     "name": "Rivaldo",
@@ -2265,7 +2631,11 @@
     "olympic": 0,
     "puskas": 0,
     "position": "FWD",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "La Liga"
+    ],
+    "num_leagues_won": 1
   },
   {
     "name": "Raymond Kopa",
@@ -2292,7 +2662,12 @@
     "olympic": 0,
     "puskas": 0,
     "position": "FWD",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "Ligue 1",
+      "La Liga"
+    ],
+    "num_leagues_won": 2
   },
   {
     "name": "Fabio Cannavaro",
@@ -2319,7 +2694,11 @@
     "olympic": 0,
     "puskas": 0,
     "position": "DEF",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "La Liga"
+    ],
+    "num_leagues_won": 1
   },
   {
     "name": "Cafu",
@@ -2346,7 +2725,11 @@
     "olympic": 0,
     "puskas": 0,
     "position": "DEF",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "Serie A"
+    ],
+    "num_leagues_won": 1
   },
   {
     "name": "Luís Figo",
@@ -2373,7 +2756,12 @@
     "olympic": 0,
     "puskas": 0,
     "position": "MID",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "La Liga",
+      "Serie A"
+    ],
+    "num_leagues_won": 2
   },
   {
     "name": "Karim Benzema",
@@ -2400,7 +2788,11 @@
     "olympic": 0,
     "puskas": 0,
     "position": "FWD",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "La Liga"
+    ],
+    "num_leagues_won": 1
   },
   {
     "name": "Paco Gento",
@@ -2427,7 +2819,11 @@
     "olympic": 0,
     "puskas": 0,
     "position": "FWD",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "La Liga"
+    ],
+    "num_leagues_won": 1
   },
   {
     "name": "Manuel Neuer",
@@ -2454,7 +2850,11 @@
     "olympic": 0,
     "puskas": 0,
     "position": "GK",
-    "clean_sheets": 400
+    "clean_sheets": 400,
+    "leagues_won": [
+      "Bundesliga"
+    ],
+    "num_leagues_won": 1
   },
   {
     "name": "Andrea Pirlo",
@@ -2481,7 +2881,11 @@
     "olympic": 0,
     "puskas": 0,
     "position": "MID",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "Serie A"
+    ],
+    "num_leagues_won": 1
   },
   {
     "name": "Jimmy Greaves",
@@ -2508,7 +2912,9 @@
     "olympic": 0,
     "puskas": 0,
     "position": "FWD",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [],
+    "num_leagues_won": 0
   },
   {
     "name": "Dino Zoff",
@@ -2535,7 +2941,11 @@
     "olympic": 0,
     "puskas": 0,
     "position": "GK",
-    "clean_sheets": 330
+    "clean_sheets": 330,
+    "leagues_won": [
+      "Serie A"
+    ],
+    "num_leagues_won": 1
   },
   {
     "name": "Romário",
@@ -2562,7 +2972,13 @@
     "olympic": 0,
     "puskas": 0,
     "position": "FWD",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "Eredivisie",
+      "La Liga",
+      "Campeonato Brasileiro"
+    ],
+    "num_leagues_won": 3
   },
   {
     "name": "Ruud Gullit",
@@ -2589,7 +3005,12 @@
     "olympic": 0,
     "puskas": 0,
     "position": "FWD",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "Eredivisie",
+      "Serie A"
+    ],
+    "num_leagues_won": 2
   },
   {
     "name": "Carlos Alberto",
@@ -2616,7 +3037,12 @@
     "olympic": 0,
     "puskas": 0,
     "position": "DEF",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "Campeonato Carioca",
+      "NASL"
+    ],
+    "num_leagues_won": 2
   },
   {
     "name": "Bobby Moore",
@@ -2643,7 +3069,9 @@
     "olympic": 0,
     "puskas": 0,
     "position": "DEF",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [],
+    "num_leagues_won": 0
   },
   {
     "name": "Zico",
@@ -2670,7 +3098,11 @@
     "olympic": 0,
     "puskas": 0,
     "position": "MID",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "Campeonato Brasileiro"
+    ],
+    "num_leagues_won": 1
   },
   {
     "name": "Lothar Matthäus",
@@ -2697,7 +3129,12 @@
     "olympic": 0,
     "puskas": 0,
     "position": "MID",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "Bundesliga",
+      "Serie A"
+    ],
+    "num_leagues_won": 2
   },
   {
     "name": "Jairzinho",
@@ -2724,7 +3161,11 @@
     "olympic": 0,
     "puskas": 0,
     "position": "FWD",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "Campeonato Carioca"
+    ],
+    "num_leagues_won": 1
   },
   {
     "name": "Ferenc Puskás",
@@ -2751,7 +3192,12 @@
     "olympic": 1,
     "puskas": 0,
     "position": "FWD",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "Hungarian League",
+      "La Liga"
+    ],
+    "num_leagues_won": 2
   },
   {
     "name": "Iker Casillas",
@@ -2778,7 +3224,12 @@
     "olympic": 0,
     "puskas": 0,
     "position": "GK",
-    "clean_sheets": 330
+    "clean_sheets": 330,
+    "leagues_won": [
+      "La Liga",
+      "Primeira Liga"
+    ],
+    "num_leagues_won": 2
   },
   {
     "name": "Peter Schmeichel",
@@ -2805,7 +3256,12 @@
     "olympic": 0,
     "puskas": 0,
     "position": "GK",
-    "clean_sheets": 320
+    "clean_sheets": 320,
+    "leagues_won": [
+      "Danish Superliga",
+      "Premier League"
+    ],
+    "num_leagues_won": 2
   },
   {
     "name": "Oliver Kahn",
@@ -2832,7 +3288,11 @@
     "olympic": 0,
     "puskas": 0,
     "position": "GK",
-    "clean_sheets": 280
+    "clean_sheets": 280,
+    "leagues_won": [
+      "Bundesliga"
+    ],
+    "num_leagues_won": 1
   },
   {
     "name": "Edwin van der Sar",
@@ -2859,7 +3319,12 @@
     "olympic": 0,
     "puskas": 0,
     "position": "GK",
-    "clean_sheets": 439
+    "clean_sheets": 439,
+    "leagues_won": [
+      "Eredivisie",
+      "Premier League"
+    ],
+    "num_leagues_won": 2
   },
   {
     "name": "Thibaut Courtois",
@@ -2886,7 +3351,11 @@
     "olympic": 0,
     "puskas": 0,
     "position": "GK",
-    "clean_sheets": 300
+    "clean_sheets": 300,
+    "leagues_won": [
+      "La Liga"
+    ],
+    "num_leagues_won": 1
   },
   {
     "name": "Sergio Ramos",
@@ -2913,7 +3382,12 @@
     "olympic": 0,
     "puskas": 0,
     "position": "DEF",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "La Liga",
+      "Ligue 1"
+    ],
+    "num_leagues_won": 2
   },
   {
     "name": "Virgil van Dijk",
@@ -2940,7 +3414,11 @@
     "olympic": 0,
     "puskas": 0,
     "position": "DEF",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "Premier League"
+    ],
+    "num_leagues_won": 1
   },
   {
     "name": "Carles Puyol",
@@ -2967,7 +3445,11 @@
     "olympic": 0,
     "puskas": 0,
     "position": "DEF",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "La Liga"
+    ],
+    "num_leagues_won": 1
   },
   {
     "name": "Paul Scholes",
@@ -2994,7 +3476,11 @@
     "olympic": 0,
     "puskas": 0,
     "position": "MID",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "Premier League"
+    ],
+    "num_leagues_won": 1
   },
   {
     "name": "Xabi Alonso",
@@ -3021,7 +3507,12 @@
     "olympic": 0,
     "puskas": 0,
     "position": "MID",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "La Liga",
+      "Bundesliga"
+    ],
+    "num_leagues_won": 2
   },
   {
     "name": "Steven Gerrard",
@@ -3048,7 +3539,9 @@
     "olympic": 0,
     "puskas": 0,
     "position": "MID",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [],
+    "num_leagues_won": 0
   },
   {
     "name": "Luis Suárez Miramontes",
@@ -3075,7 +3568,12 @@
     "olympic": 0,
     "puskas": 0,
     "position": "MID",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "La Liga",
+      "Serie A"
+    ],
+    "num_leagues_won": 2
   },
   {
     "name": "Omar Sívori",
@@ -3102,7 +3600,11 @@
     "olympic": 0,
     "puskas": 0,
     "position": "FWD",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "Serie A"
+    ],
+    "num_leagues_won": 1
   },
   {
     "name": "Josef Masopust",
@@ -3129,7 +3631,11 @@
     "olympic": 0,
     "puskas": 0,
     "position": "MID",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "Czechoslovak First League"
+    ],
+    "num_leagues_won": 1
   },
   {
     "name": "Flórián Albert",
@@ -3156,7 +3662,11 @@
     "olympic": 0,
     "puskas": 0,
     "position": "FWD",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "Hungarian League (Nemzeti Bajnokság I)"
+    ],
+    "num_leagues_won": 1
   },
   {
     "name": "Allan Simonsen",
@@ -3183,7 +3693,11 @@
     "olympic": 0,
     "puskas": 0,
     "position": "FWD",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "Bundesliga"
+    ],
+    "num_leagues_won": 1
   },
   {
     "name": "Igor Belanov",
@@ -3210,7 +3724,11 @@
     "olympic": 0,
     "puskas": 0,
     "position": "FWD",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "Soviet Top League"
+    ],
+    "num_leagues_won": 1
   },
   {
     "name": "Jean-Pierre Papin",
@@ -3237,7 +3755,12 @@
     "olympic": 0,
     "puskas": 0,
     "position": "FWD",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "Ligue 1",
+      "Serie A"
+    ],
+    "num_leagues_won": 2
   },
   {
     "name": "Matthias Sammer",
@@ -3264,7 +3787,11 @@
     "olympic": 0,
     "puskas": 0,
     "position": "DEF",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "Bundesliga"
+    ],
+    "num_leagues_won": 1
   },
   {
     "name": "Michael Owen",
@@ -3291,7 +3818,11 @@
     "olympic": 0,
     "puskas": 0,
     "position": "FWD",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "Premier League"
+    ],
+    "num_leagues_won": 1
   },
   {
     "name": "Pavel Nedvěd",
@@ -3318,7 +3849,11 @@
     "olympic": 0,
     "puskas": 0,
     "position": "MID",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "Serie A"
+    ],
+    "num_leagues_won": 1
   },
   {
     "name": "Andriy Shevchenko",
@@ -3345,7 +3880,12 @@
     "olympic": 0,
     "puskas": 0,
     "position": "FWD",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "Ukrainian Premier League",
+      "Serie A"
+    ],
+    "num_leagues_won": 2
   },
   {
     "name": "Rodri",
@@ -3372,7 +3912,11 @@
     "olympic": 0,
     "puskas": 0,
     "position": "MID",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "Premier League"
+    ],
+    "num_leagues_won": 1
   },
   {
     "name": "Ousmane Dembélé",
@@ -3399,7 +3943,11 @@
     "olympic": 0,
     "puskas": 0,
     "position": "FWD",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [
+      "Ligue 1"
+    ],
+    "num_leagues_won": 1
   },
   {
     "name": "Son Heung-min",
@@ -3426,6 +3974,8 @@
     "olympic": 0,
     "puskas": 1,
     "position": "FWD",
-    "clean_sheets": null
+    "clean_sheets": null,
+    "leagues_won": [],
+    "num_leagues_won": 0
   }
 ]
