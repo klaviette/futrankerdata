@@ -4040,7 +4040,7 @@
       "La Liga (2009, 2010)",
       "Premier League (2012, 2014, 2018)"
     ],
-    "num_leagues_won": 5
+    "num_leagues_won": 3
   },
   {
     "name": "Wynton Rufer",
@@ -4072,5 +4072,34 @@
       "Bundesliga"
     ],
     "num_leagues_won": 1
+  }
+  {
+    "name": "Luis Suárez",
+    "confederation": "CONMEBOL",
+    "retired": false,
+    "wc": 0,
+    "cont": 1,
+    "ucl": 1,
+    "europa": 0,
+    "conf": 0,
+    "cwc": 1,
+    "icc": 0,
+    "league": 6,
+    "domestic": 5,
+    "goals_c": 540,
+    "goals_i": 69,
+    "assists_c": 281,
+    "assists_i": 39,
+    "bdor": 0,
+    "egs": 2,
+    "wcgb": 0,
+    "wcboot": 0,
+    "glove": 0,
+    "olympic": 0,
+    "puskas": 0,
+    "position": "FWD",
+    "clean_sheets": null,
+    "leagues_won": ["La Liga (2015, 2016, 2018, 2019, 2021)", "Uruguayan Primera División (2022)"],
+    "num_leagues_won": 3
   }
 ]
