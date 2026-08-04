@@ -186,7 +186,7 @@
     "olympic": 0,
     "puskas": 0,
     "position": "DEF",
-    "clean_sheets": null,
+    "clean_sheets": 240,
     "leagues_won": [
       "Bundesliga",
       "NASL"
@@ -409,7 +409,7 @@
     "olympic": 0,
     "puskas": 0,
     "position": "DEF",
-    "clean_sheets": null,
+    "clean_sheets": 360,
     "leagues_won": [
       "Serie A"
     ],
@@ -692,7 +692,7 @@
     "olympic": 0,
     "puskas": 0,
     "position": "DEF",
-    "clean_sheets": null,
+    "clean_sheets": 330,
     "leagues_won": [
       "Serie A"
     ],
@@ -1038,7 +1038,7 @@
     "olympic": 0,
     "puskas": 0,
     "position": "DEF",
-    "clean_sheets": null,
+    "clean_sheets": 310,
     "leagues_won": [
       "Serie A"
     ],
@@ -1227,7 +1227,7 @@
     "olympic": 0,
     "puskas": 0,
     "position": "DEF",
-    "clean_sheets": null,
+    "clean_sheets": 260,
     "leagues_won": [
       "Serie A"
     ],
@@ -1353,7 +1353,7 @@
     "olympic": 0,
     "puskas": 0,
     "position": "DEF",
-    "clean_sheets": null,
+    "clean_sheets": 210,
     "leagues_won": [
       "Ligue 1",
       "Serie A"
@@ -1478,7 +1478,7 @@
     "olympic": 0,
     "puskas": 0,
     "position": "DEF",
-    "clean_sheets": null,
+    "clean_sheets": 260,
     "leagues_won": [
       "Bundesliga"
     ],
@@ -1725,7 +1725,7 @@
     "olympic": 0,
     "puskas": 0,
     "position": "DEF",
-    "clean_sheets": null,
+    "clean_sheets": 220,
     "leagues_won": [
       "La Liga"
     ],
@@ -2694,7 +2694,7 @@
     "olympic": 0,
     "puskas": 0,
     "position": "DEF",
-    "clean_sheets": null,
+    "clean_sheets": 250,
     "leagues_won": [
       "La Liga"
     ],
@@ -2725,7 +2725,7 @@
     "olympic": 0,
     "puskas": 0,
     "position": "DEF",
-    "clean_sheets": null,
+    "clean_sheets": 240,
     "leagues_won": [
       "Serie A"
     ],
@@ -3037,7 +3037,7 @@
     "olympic": 0,
     "puskas": 0,
     "position": "DEF",
-    "clean_sheets": null,
+    "clean_sheets": 180,
     "leagues_won": [
       "Campeonato Carioca",
       "NASL"
@@ -3069,7 +3069,7 @@
     "olympic": 0,
     "puskas": 0,
     "position": "DEF",
-    "clean_sheets": null,
+    "clean_sheets": 230,
     "leagues_won": [],
     "num_leagues_won": 0
   },
@@ -3382,7 +3382,7 @@
     "olympic": 0,
     "puskas": 0,
     "position": "DEF",
-    "clean_sheets": null,
+    "clean_sheets": 300,
     "leagues_won": [
       "La Liga",
       "Ligue 1"
@@ -3414,7 +3414,7 @@
     "olympic": 0,
     "puskas": 0,
     "position": "DEF",
-    "clean_sheets": null,
+    "clean_sheets": 210,
     "leagues_won": [
       "Premier League"
     ],
@@ -3445,7 +3445,7 @@
     "olympic": 0,
     "puskas": 0,
     "position": "DEF",
-    "clean_sheets": null,
+    "clean_sheets": 240,
     "leagues_won": [
       "La Liga"
     ],
@@ -3787,7 +3787,7 @@
     "olympic": 0,
     "puskas": 0,
     "position": "DEF",
-    "clean_sheets": null,
+    "clean_sheets": 150,
     "leagues_won": [
       "Bundesliga"
     ],
@@ -3979,61 +3979,67 @@
     "num_leagues_won": 0
   },
   {
-  "name": "Samuel Eto'o",
-  "confederation": "CAF",
-  "retired": true,
-  "wc": 0,
-  "cont": 2,
-  "ucl": 3,
-  "europa": 0,
-  "conf": 0,
-  "cwc": 2,
-  "icc": 0,
-  "league": 4,
-  "domestic": 3,
-  "goals_c": 354,
-  "goals_i": 56,
-  "assists_c": 100,
-  "assists_i": 20,
-  "bdor": 0,
-  "egs": 0,
-  "wcgb": 0,
-  "wcboot": 0,
-  "glove": 0,
-  "olympic": 1,
-  "puskas": 0,
-  "position": "FWD",
-  "clean_sheets": null,
-  "leagues_won": ["La Liga (2005, 2006, 2009)", "Serie A (2010)"],
-  "num_leagues_won": 4
-},
-{
-  "name": "Yaya Touré",
-  "confederation": "CAF",
-  "retired": true,
-  "wc": 0,
-  "cont": 1,
-  "ucl": 1,
-  "europa": 0,
-  "conf": 0,
-  "cwc": 1,
-  "icc": 0,
-  "league": 5,
-  "domestic": 4,
-  "goals_c": 110,
-  "goals_i": 19,
-  "assists_c": 60,
-  "assists_i": 10,
-  "bdor": 0,
-  "egs": 0,
-  "wcgb": 0,
-  "wcboot": 0,
-  "glove": 0,
-  "olympic": 0,
-  "puskas": 0,
-  "position": "MID",
-  "clean_sheets": null,
-  "leagues_won": ["La Liga (2009, 2010)", "Premier League (2012, 2014, 2018)"],
-  "num_leagues_won": 5
-}
+    "name": "Samuel Eto'o",
+    "confederation": "CAF",
+    "retired": true,
+    "wc": 0,
+    "cont": 2,
+    "ucl": 3,
+    "europa": 0,
+    "conf": 0,
+    "cwc": 2,
+    "icc": 0,
+    "league": 4,
+    "domestic": 3,
+    "goals_c": 354,
+    "goals_i": 56,
+    "assists_c": 100,
+    "assists_i": 20,
+    "bdor": 0,
+    "egs": 0,
+    "wcgb": 0,
+    "wcboot": 0,
+    "glove": 0,
+    "olympic": 1,
+    "puskas": 0,
+    "position": "FWD",
+    "clean_sheets": null,
+    "leagues_won": [
+      "La Liga (2005, 2006, 2009)",
+      "Serie A (2010)"
+    ],
+    "num_leagues_won": 4
+  },
+  {
+    "name": "Yaya Touré",
+    "confederation": "CAF",
+    "retired": true,
+    "wc": 0,
+    "cont": 1,
+    "ucl": 1,
+    "europa": 0,
+    "conf": 0,
+    "cwc": 1,
+    "icc": 0,
+    "league": 5,
+    "domestic": 4,
+    "goals_c": 110,
+    "goals_i": 19,
+    "assists_c": 60,
+    "assists_i": 10,
+    "bdor": 0,
+    "egs": 0,
+    "wcgb": 0,
+    "wcboot": 0,
+    "glove": 0,
+    "olympic": 0,
+    "puskas": 0,
+    "position": "MID",
+    "clean_sheets": null,
+    "leagues_won": [
+      "La Liga (2009, 2010)",
+      "Premier League (2012, 2014, 2018)"
+    ],
+    "num_leagues_won": 5
+  }
 ]
